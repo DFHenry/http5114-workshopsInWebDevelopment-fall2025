@@ -66,12 +66,12 @@ Language | Sememster | Front or Back
 HTML | 1 | Front         
 PHP|1 | Back          
 
+<!-- Comment -->
+
 | Language | Sememster | Front or Back 
 | -------- | --------- | ------------- 
 | HTML     | 1         | Front         
 | PHP      | 1         | Back        
-
-<!--Comment--!>
 
 > Block Quote
 
