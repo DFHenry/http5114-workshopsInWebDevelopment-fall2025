@@ -75,4 +75,4 @@ PHP|1 | Back
 
 > Block Quote
 
-> [!Warning]
+> [!WARNING]
