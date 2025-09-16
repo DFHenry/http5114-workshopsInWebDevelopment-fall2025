@@ -39,3 +39,40 @@ This is a link to [my protfolio](https://www.behance.net/davidhenry39#).
 ## Images
 
 ![a hamster looking towards the viewer](home-yourpets-hamster_1200x630.jpg)
+
+## Code
+
+You can add in-line code using single tics.
+
+Create a variable named `var test = 1`.
+
+or you can use three tics for a block of code:
+
+```javascript
+var test = 1;
+if(test == 1;)
+{
+    console.log("Hello World");
+}
+
+```
+
+## Tables
+
+Her eis a list of languages in a table:
+
+Language | Sememster | Front or Back 
+-- | -- | -- 
+HTML | 1 | Front         
+PHP|1 | Back          
+
+| Language | Sememster | Front or Back 
+| -------- | --------- | ------------- 
+| HTML     | 1         | Front         
+| PHP      | 1         | Back        
+
+<!--Comment--!>
+
+> Block Quote
+
+> [!Warning]
